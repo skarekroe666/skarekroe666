@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a **Frontend Developer** with a passion for bu
 - 🌟 **Frontend Enthusiast**: I specialize in creating responsive and interactive web interfaces using **React**, **TailwindCSS**, and other modern frameworks.
 - 🔧 **Exploring Backend**: Currently learning **Java**, **Spring Boot**, and **SQL** to expand my skillset.
 - 🎮 **Passionate Gamer**: Gaming fuels my creativity and inspires my projects.
-- 📚 **Lifelong Learner**: Constantly improving my skills in **JavaScript**, **System Design**, and **DSA**.
+- 📚 **Lifelong Learner**: Constantly improving my skills in **Java**, **System Design**, and **DSA**.
 
 ---
 
