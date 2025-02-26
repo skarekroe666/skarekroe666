@@ -39,7 +39,7 @@ Welcome to my GitHub profile—where backend magic meets caffeine-fueled chaos. 
 
 ## 🔗 Let's Connect  
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/sanskar-sonwal-80025b164/)  
-- [![X (Twitter)](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/YOUR_TWITTER_HANDLE)  
+- [![X (X)](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://x.com/Sanskar00611)  
 - [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:sanskar.sonwal6@gmail.com)  
 
 Thanks for dropping by! Feel free to explore my repos, fork stuff, or just say hi. Let’s build something epic! 🚀🔥  
