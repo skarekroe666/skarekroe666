@@ -1,7 +1,3 @@
-Here's your revamped, edgy, and quirky GitHub bio with your X (Twitter) link added:  
-
----
-
 # Hi there, I'm Sanskar! 👋  
 
 Welcome to my GitHub profile—where backend magic meets caffeine-fueled chaos. I'm a **Backend Developer** crafting scalable, high-performance systems and slowly slipping into the DevOps rabbit hole. My endgame? **DevOps Engineer**, because why just build when you can automate and deploy at godspeed?  
@@ -43,7 +39,3 @@ Welcome to my GitHub profile—where backend magic meets caffeine-fueled chaos. 
 - [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:sanskar.sonwal6@gmail.com)  
 
 Thanks for dropping by! Feel free to explore my repos, fork stuff, or just say hi. Let’s build something epic! 🚀🔥  
-
----
-
-Let me know if you want more tweaks! 😎
